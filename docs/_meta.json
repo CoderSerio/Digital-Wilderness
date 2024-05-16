@@ -1,11 +1,7 @@
 [
   {
-    "text": "Guide",
+    "text": "开始探索",
     "link": "/guide/",
     "activeMatch": "/guide/"
-  },
-  {
-    "text": "关于作者",
-    "link": "https://github.com/CoderSerio"
   }
 ]
