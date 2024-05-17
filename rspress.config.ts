@@ -3,9 +3,14 @@ import { defineConfig } from "rspress/config";
 
 export default defineConfig({
   base: "/Digital-Wilderness/",
+  builderConfig: {
+    output: {
+      assetPrefix: "https://digital-wilderness.xyz/",
+    },
+  },
   root: path.join(__dirname, "docs"),
-  title: "电子荒原-个人临时资源",
-  description: "个人资源临时存放点",
+  title: "数字荒原",
+  description: "流浪数据的中转站",
   icon: "/rspress-icon.png",
   logo: {
     light: "/rspress-light-logo.png",

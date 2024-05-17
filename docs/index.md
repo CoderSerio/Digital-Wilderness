@@ -2,8 +2,8 @@
 pageType: home
 
 hero:
-  name: 电子荒原
-  text: 个人资源临时存放点
+  name: 数字荒原
+  text: 流浪数据的中转站
   tagline: 向西可剃度，向东可寻欢，只是山野笨拙，我也笨拙
   actions:
     - theme: brand
@@ -14,7 +14,7 @@ hero:
       link: https://github.com/CoderSerio
   image:
     src: /rspress-icon.png
-    alt: 电子荒原-个人临时资源 Logo
+    alt: 数字荒原-流浪数据的中转站 Logo
 features:
   - title: 聚珍集萃
     details: 大千世界，触手也可得。
