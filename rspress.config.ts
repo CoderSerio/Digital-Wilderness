@@ -2,7 +2,7 @@ import * as path from "path";
 import { defineConfig } from "rspress/config";
 
 export default defineConfig({
-  base: "/Digital-Wilderness/",
+  base: ".",
   builderConfig: {
     output: {
       assetPrefix: "https://digital-wilderness.xyz/",
