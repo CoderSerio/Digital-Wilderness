@@ -12,11 +12,13 @@ export default defineConfig({
   title: "数字荒原",
   description: "流浪数据的中转站",
   icon: "/rspress-icon.png",
-  logo: {
-    light: "/rspress-light-logo.png",
-    dark: "/rspress-dark-logo.png",
-  },
+  // logo: {
+  //   light: "/rspress-light-logo.png",
+  //   dark: "/rspress-dark-logo.png",
+  // },
   themeConfig: {
+    enableContentAnimation: true,
+    enableScrollToTop: true,
     socialLinks: [
       {
         icon: "github",
